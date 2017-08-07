@@ -1,0 +1,2 @@
+# ruby_nlp_100practice
+言語処理100本ノックをRubyで解く
